@@ -1,6 +1,6 @@
-# commandsIOftenForgetAbout
+# commands i often forget about.
 
-and some i should use more often
+(and some i should use more often)
 
 <hr />
 
